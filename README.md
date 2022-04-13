@@ -1,1 +1,1 @@
-# kaggle
+Kaggle日記
