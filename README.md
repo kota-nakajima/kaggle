@@ -14,4 +14,4 @@ LightGBMのコードを写経して提出まで行ったが、いまいち何を
 Kaggleで勝つ本をサラッと読んでみたが、様々なモデルを紹介してくれているものの、コードの内容が分からないので、現状の解決には至らなさそう。  
   
 https://www.kaggle.com/code/kotanakajima/kaggle-prediction-house-prices/edit  
-House Priceのこのkernelを用いてコードを理解しながら流れをつかもうと思う。
+House Priceのこのkernelを用いてコードを理解しながら流れをつかもうと思う。あとはpandasの勉強が必要そう。。。
