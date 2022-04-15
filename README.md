@@ -15,3 +15,5 @@ Kaggleで勝つ本をサラッと読んでみたが、様々なモデルを紹�
   
 https://www.kaggle.com/code/kotanakajima/kaggle-prediction-house-prices/edit  
 House Priceのこのkernelを用いてコードを理解しながら流れをつかもうと思う。あとはpandasの勉強が必要そう。。。
+
+
