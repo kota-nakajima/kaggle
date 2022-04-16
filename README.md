@@ -16,4 +16,8 @@ Kaggleで勝つ本をサラッと読んでみたが、様々なモデルを紹�
 https://www.kaggle.com/code/kotanakajima/kaggle-prediction-house-prices/edit  
 House Priceのこのkernelを用いてコードを理解しながら流れをつかもうと思う。あとはpandasの勉強が必要そう。。。
 
-
+## 20220416
+LightGBMにおいて必要な特徴量エンジニアリング代表例  
+①特徴量同士の四則演算  
+②集約特徴量(特徴量のmean/median/std/max/min)  
+↑＋特徴量の削減(学習時間短縮、メモリ節約のため)を行えばとりあえずbaselineのサブミットはできそう。
