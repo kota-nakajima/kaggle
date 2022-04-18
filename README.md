@@ -25,3 +25,11 @@ LightGBMにおいて必要な特徴量エンジニアリング代表例
 ## 20220417
 Tabular Playground Series - Feb 2022をやってみようとしてKernelをみているが、ドメイン知識をフル活用していて、EDAが難しい。  
 とりあえず難しいEDAをやっていないものを見つけてsubmissionまでなるべく独力でやってみる。
+
+## 20220418
+Tabular Playground Series - Feb 2022  
+https://www.kaggle.com/code/odins0n/tps-feb-22-eda-modelling  
+このKernelが分かりやすそうなので手を付けている。
+
+また、以下のyoutubeがKaggleの進め方の理解に役立ったのでメモしておく。  
+https://www.youtube.com/watch?v=Ug5uce0kbtQ  
