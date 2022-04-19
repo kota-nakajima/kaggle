@@ -33,3 +33,8 @@ https://www.kaggle.com/code/odins0n/tps-feb-22-eda-modelling
 
 また、以下のyoutubeがKaggleの進め方の理解に役立ったのでメモしておく。  
 https://www.youtube.com/watch?v=Ug5uce0kbtQ  
+
+## 20220419
+Google colabからkaggleをできるようにした。下の2リンクを参照。  
+https://qiita.com/takeru0208/items/3bc89dbfe25d2de600dc  
+https://dreamer-uma.com/kaggle-api-colab/  
