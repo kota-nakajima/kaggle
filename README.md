@@ -43,3 +43,6 @@ https://dreamer-uma.com/kaggle-api-colab/
 from google.colab import drive  
 drive.mount('/gdrive')
 ```
+### sns.kdeplot
+Tabular Playground Series - Feb 2022  
+読んでいるKernelでKDE(Kernel Density Estimation, カーネル密度推定)のグラフをたくさん生成しているので、KDEについて調べる必要あり。
