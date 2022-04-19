@@ -46,5 +46,5 @@ drive.mount('/gdrive')
 ### sns.kdeplot
 Tabular Playground Series - Feb 2022  
 読んでいるKernelでKDE(Kernel Density Estimation, カーネル密度推定)のグラフをたくさん生成している。  
-簡単には標本から全体の分布を推定する際、標本点を正規分布などのカーネル関数で表現し、足し合わせることで分布を算出することらしい。  
+簡単には、標本から全体の分布を推定する際、標本点を正規分布などのカーネル関数で表現し、足し合わせることで分布を算出する手法らしい。  
 https://club.informatix.co.jp/?p=1176
