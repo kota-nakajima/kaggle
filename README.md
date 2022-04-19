@@ -38,3 +38,8 @@ https://www.youtube.com/watch?v=Ug5uce0kbtQ
 Google colabからkaggleをできるようにした。下の2リンクを参照。  
 https://qiita.com/takeru0208/items/3bc89dbfe25d2de600dc  
 https://dreamer-uma.com/kaggle-api-colab/  
+ダウンロードしたkaggleのファイルにアクセスするため、毎回以下のコードを実行してGoogleDriveをマウントする必要がある。
+```python
+from google.colab import drive  
+drive.mount('/gdrive')
+```
