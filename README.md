@@ -48,3 +48,7 @@ Tabular Playground Series - Feb 2022
 読んでいるKernelでKDE(Kernel Density Estimation, カーネル密度推定)のグラフをたくさん生成している。  
 簡単には、標本から全体の分布を推定する際、標本点を正規分布などのカーネル関数で表現し、足し合わせることで分布を算出する手法らしい。  
 https://club.informatix.co.jp/?p=1176
+
+## 20220420
+StratifiedKFold(層化K分割交差検証)について。要約すると、訓練データ内の各ラベルと検証データ内の各ラベルの比率を一定にしたKFold(あるラベルが訓練データに10個、検証データに0個というkとを防いでくれる)。
+https://xn--stanalytics-note-5x3o0cry2m2n.xyz/machine-learning/stratified-kfolds-cross-validator/
