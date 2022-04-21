@@ -50,5 +50,8 @@ Tabular Playground Series - Feb 2022
 https://club.informatix.co.jp/?p=1176
 
 ## 20220420
-StratifiedKFold(層化K分割交差検証)について。要約すると、訓練データ内の各ラベルと検証データ内の各ラベルの比率を一定にしたKFold(あるラベルが訓練データに10個、検証データに0個というkとを防いでくれる)。
-https://xn--stanalytics-note-5x3o0cry2m2n.xyz/machine-learning/stratified-kfolds-cross-validator/
+StratifiedKFold(層化K分割交差検証)について。要約すると、訓練データ内の各ラベルと検証データ内の各ラベルの比率を一定にしたKFold(あるラベルが訓練データに10個、検証データに0個のようなことを防いでくれる)。
+https://xn--stanalytics-note-5x3o0cry2m2n.xyz/machine-learning/stratified-kfolds-cross-validator/  
+  
+LightGBMでGPUを使う方法は以下。  
+https://www.guruguru.science/competitions/13/discussions/64f95387-97b8-4c49-9eb1-8a0e12ed4469/
