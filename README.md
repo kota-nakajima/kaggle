@@ -54,4 +54,4 @@ StratifiedKFold(層化K分割交差検証)について。要約すると、訓�
 https://xn--stanalytics-note-5x3o0cry2m2n.xyz/machine-learning/stratified-kfolds-cross-validator/  
   
 LightGBMでGPUを使う方法は以下。  
-https://www.guruguru.science/competitions/13/discussions/64f95387-97b8-4c49-9eb1-8a0e12ed4469/
+https://datadriven-rnd.com/googlecolab-gpu/
