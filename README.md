@@ -59,3 +59,9 @@ https://datadriven-rnd.com/googlecolab-gpu/
 ##  20220421
 LightGBMのモデルを写経して実行したものの、結局次のステップが全く分からないので、Udemyのデータ分析の講座を受けることにする。  
 Udemyが終わるまでKaggleは休止。
+
+## 20220422
+Dockerのpullをwindowsで行う際に、通常のやり方だと正しくマウントできなかったのでメモ。  
+https://pickerlab.net/2021/05/02/you-shared-a-windows-file-into-a-wsl-2-container/  
+https://zenn.dev/kathmandu/articles/4a86c3d75b93c3  
+https://zenn.dev/kathmandu/articles/4a86c3d75b93c3
