@@ -53,5 +53,9 @@ https://club.informatix.co.jp/?p=1176
 StratifiedKFold(層化K分割交差検証)について。要約すると、訓練データ内の各ラベルと検証データ内の各ラベルの比率を一定にしたKFold(あるラベルが訓練データに10個、検証データに0個のようなことを防いでくれる)。
 https://xn--stanalytics-note-5x3o0cry2m2n.xyz/machine-learning/stratified-kfolds-cross-validator/  
   
-LightGBMでGPUを使う方法は以下。  
+LightGBMでGPUを使う方法は以下(できないことがあったのはColabのGPUが使用制限で使えなかったから？)。  
 https://datadriven-rnd.com/googlecolab-gpu/
+
+##  20220421
+LightGBMのモデルを写経して実行したものの、結局次のステップが全く分からないので、Udemyのデータ分析の講座を受けることにする。  
+Udemyが終わるまでKaggleは休止。
