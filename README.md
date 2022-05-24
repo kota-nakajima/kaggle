@@ -71,4 +71,7 @@ https://zenn.dev/kathmandu/articles/4a86c3d75b93c3
 Pythonの勉強、統計検定の勉強をしていたら（＋Kaggle何すれば良いか分からないと言っていたら）一か月経ってしまった。  
 とりあえず何回かPlay groundで一通りのモデル作成(LGBM, XGBoost, NN)、パラメータチューニングなどやってみた後は画像コンペに取り組もうと思う。  
 LightGBMのパラメータチューニングに関する良記事があったので掲載する。  
-https://knknkn.hatenablog.com/entry/2021/06/29/125226
+https://knknkn.hatenablog.com/entry/2021/06/29/125226  
+  
+lightgbmのearly_stopping_roundsをcallback引数で指定する方法。  
+https://qiita.com/c60evaporator/items/2b7a2820d575e212bcf4
