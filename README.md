@@ -75,3 +75,9 @@ https://knknkn.hatenablog.com/entry/2021/06/29/125226
   
 lightgbmのearly_stopping_roundsをcallback引数で指定する方法。  
 https://qiita.com/c60evaporator/items/2b7a2820d575e212bcf4
+
+## 20220506
+Optunaでパラメータの最適化を行ってみた。時間がかかりすぎてなんだこれってなってる。  
+LightGBM用のTunerもあるが、一部のパラメータについてのみ最適化が可能。  
+https://tech.preferred.jp/ja/blog/hyperparameter-tuning-with-optuna-integration-lightgbm-tuner/
+結局今のところは手動でパラメータチューニングするのが早そう。
