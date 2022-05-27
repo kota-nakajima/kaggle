@@ -87,4 +87,7 @@ https://tech.preferred.jp/ja/blog/hyperparameter-tuning-with-optuna-integration-
 パラメータは特徴量などが変わると最適な値が変わってしまう&非常に時間がかかるので、コンペの最後の方にチューニングした方が良いことを理解した。  
   
 パラメータチューニングについて異常に細かく解説している記事があったので、実力が付いたら読み直したい。    
-https://qiita.com/c60evaporator/items/ca7eb70e1508d2ba5359
+https://qiita.com/c60evaporator/items/ca7eb70e1508d2ba5359  
+
+またLightGBMでGPUを使っているが、Kaggle NotebookでGPUの使用率が3%程度までしか行かなかったので、正しくできていないのかもしれない。  
+CPUとあまり処理速度に差が無いように感じるので、無理にGPUを使う必要はないかも。
